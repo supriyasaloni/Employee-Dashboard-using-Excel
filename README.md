@@ -32,3 +32,9 @@ Monitor employee efficiency.
 Track active customer handling time.
 Analyze break duration.
 Identify top and low performers.
+
+
+
+Dashboard Overview
+
+<img width="871" height="490" alt="image" src="https://github.com/user-attachments/assets/b3387bc3-4ef1-4229-a9ca-3db55ee85472" />
