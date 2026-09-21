@@ -37,4 +37,5 @@ Identify top and low performers.
 
 Dashboard Overview
 
-<img width="871" height="490" alt="image" src="https://github.com/user-attachments/assets/b3387bc3-4ef1-4229-a9ca-3db55ee85472" />
+<img width="867" height="502" alt="Screenshot 2026-09-21 141114" src="https://github.com/user-attachments/assets/c732c444-e84f-4d1a-84ee-60fa9ad46df4" />
+
